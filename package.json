@@ -1,0 +1,29 @@
+{
+  "name": "graphql-the-things",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sshikora/graphql-the-things.git"
+  },
+  "keywords": [
+    "graphql",
+    "all",
+    "the",
+    "things"
+  ],
+  "author": "seth shikora",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sshikora/graphql-the-things/issues"
+  },
+  "homepage": "https://github.com/sshikora/graphql-the-things#readme",
+  "dependencies": {
+    "apollo-server-lambda": "^2.10.1",
+    "graphql": "^14.6.0"
+  }
+}
